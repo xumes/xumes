@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 # Hi, I'm Reginaldo 👋 	:man_technologist: 💻
 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="banner git animated with some code scrolling on the screen">
-I'm a software engineer who is passionate about making code more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, MERN (Mongo, Express, React and Node) and GraphQL. I am currently working on a Canadian based startup called Proposify.
+I'm a software engineer who is passionate about making code more accessible, creating technology to elevate people, and building community. 
+Some technologies I enjoy working with include chatbots, the MERN (Mongo, Express, React and Node) stack and PHP. 
+
+I am currently working on an awesome startup called <a href="https://www.proposify.com">Proposify</a> 
+<img src="https://media.giphy.com/media/IfmEAwUlMMyKbRD67T/giphy.gif" alt="proposify icon" width="150px">.
 
 
 ## Find me around the web 🌎:
