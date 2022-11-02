@@ -20,7 +20,7 @@ I'm a senior software engineer who is passionate about making code more accessib
 Some technologies I enjoy working with include chatbots, the MERN (Mongo, Express, React and Node) stack and PHP. 
 
 I am currently working on an awesome company called <a href="https://www.redspace.com">REDspace</a> 
-<img src="https://scontent.fyhz1-1.fna.fbcdn.net/v/t1.18169-9/11401106_1107523809275634_3764741825193005813_n.png?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=l4sVDBNHSGwAX_7CZE3&_nc_ht=scontent.fyhz1-1.fna&oh=00_AT_7CjExUtfqaUZ_n7_4bgYTukHFY8r9Ii-QPk_Mn0_Ejw&oe=62428083" alt="REDspace icon" width="150px">.
+<img src="[https://scontent.fyhz1-1.fna.fbcdn.net/v/t1.18169-9/11401106_1107523809275634_3764741825193005813_n.png?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=l4sVDBNHSGwAX_7CZE3&_nc_ht=scontent.fyhz1-1.fna&oh=00_AT_7CjExUtfqaUZ_n7_4bgYTukHFY8r9Ii-QPk_Mn0_Ejw&oe=62428083](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMQd27MWMa0HxxS0r2FJpdybziC4LjH0jAzualWUFrg&s)" alt="REDspace icon" width="150px">.
 
 
 ## Find me around the web 🌎:
